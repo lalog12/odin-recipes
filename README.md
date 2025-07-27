@@ -1,0 +1,1 @@
+Project consists of a landing page that will have links to 3 different recipes. The recipes will be pepperoni pizza, meal involving tofu, and fried rice.
