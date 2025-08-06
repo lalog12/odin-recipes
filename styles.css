@@ -1,0 +1,25 @@
+.body{
+    background-color: rgb(255, 236, 219);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#fried-rice-pic-size{
+    width: 750px;
+    margin: 0 auto;
+}
+
+#choc-chip-cookie-pic-size{
+    width: 720px;
+    margin:0 auto;
+}
+
+
+#pepperoni-pic-size{
+    width:612px;
+    margin:0 auto;
+}
+
+.links{
+    color: rgb(23, 85, 132);
+}
